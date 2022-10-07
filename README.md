@@ -1,3 +1,7 @@
+# Auth Google - Using React.js & Tailwind CSS
+
+![Auth-Google](https://i.ibb.co/txL1ZbW/Black-Yellow-Classy-Business-You-Tube-Channel-Art.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
