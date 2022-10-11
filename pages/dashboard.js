@@ -6,7 +6,7 @@ export default function Dashboard() {
   const route = useRouter();
   const [user, loading] = useAuthState(auth);
   console.log(user);
-  if (loading) return <h1>Loading</h1>;
+  if (loading) return <h1> Loading </h1>;
   if (!user) route.push("/auth/login");
   if (user)
     return (
